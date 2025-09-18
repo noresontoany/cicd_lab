@@ -1,5 +1,5 @@
 
-qimport uvicorn
+import uvicorn
 
 from fastapi import FastAPI
 
