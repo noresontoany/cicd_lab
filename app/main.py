@@ -11,10 +11,6 @@ from routers.user import router as user_router
 
 
 
-
-
-
-
 app = FastAPI()
 
 
